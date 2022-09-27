@@ -1,9 +1,9 @@
 [package]
 name = "gutters"
-description = "Basic but fast network communication between scientific applications"
+description = "Basic generic functions for building quick and dirty interprocess or network protocols."
 categories = ["network-programming", "concurrency"]
 keywords = ["ipc", "pipe", "network"]
-version = "0.1.0"
+version = "0.1.1"
 authors = ["gggto <47183108+gggto@users.noreply.github.com>"]
 repository = "https://github.com/gggto/gutters"
 license = "MIT"
