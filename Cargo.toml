@@ -1,7 +1,7 @@
 [package]
 name = "gutters"
 description = "Basic but fast network communication between scientific applications"
-categories = ["network-programming", "concurrency", "pipe"]
+categories = ["network-programming", "concurrency"]
 keywords = ["ipc", "pipe", "network"]
 version = "0.1.0"
 authors = ["gggto <47183108+gggto@users.noreply.github.com>"]
